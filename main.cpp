@@ -12,7 +12,7 @@ int main() {
     cout << "Student ID: 2026-001" << endl;
     cout << "Email: juan@example.com" << endl;
     cout << endl;
-    cout << "Welcome to the system!" << endl;
+    cout << "Welcome, valued student!" << endl;
 
     return 0;
 }
